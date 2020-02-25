@@ -1,0 +1,9 @@
+//this is a JSON file, needed when webpack uses babel
+{
+    "presets": [
+        "env", 
+        "react"],
+"plugins": [
+    "transform-class-properties"
+    ]
+}
