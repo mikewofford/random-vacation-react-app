@@ -6,6 +6,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "start": "node server/server.js",
     "serve": "live-server --port=8081 public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server"
